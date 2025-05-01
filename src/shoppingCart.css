@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .items-list, .cart-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .item-card, .cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #ffefc7;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background: #ffad42;
+  }
+  
+  .remove-btn {
+    background: red;
+    color: white;
+  }
+  
