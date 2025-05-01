@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/solid-winner/static/css/main.350bbff4.css",
+    "main.js": "/solid-winner/static/js/main.e32c0312.js",
+    "static/js/453.ed3810f9.chunk.js": "/solid-winner/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/solid-winner/index.html",
+    "main.350bbff4.css.map": "/solid-winner/static/css/main.350bbff4.css.map",
+    "main.e32c0312.js.map": "/solid-winner/static/js/main.e32c0312.js.map",
+    "453.ed3810f9.chunk.js.map": "/solid-winner/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.350bbff4.css",
+    "static/js/main.e32c0312.js"
+  ]
+}
